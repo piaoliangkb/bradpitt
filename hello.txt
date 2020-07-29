@@ -1,1 +1,19 @@
+a.sh
+ab
+cmake-3.12.2-Linux-x86_64
+cmake-3.12.2-Linux-x86_64.tar.gz
+color.sh
+config.yml
+hello.txt
+makefile
+nohup.out
+test2
+wget.txt
+zsh-syntax-highlighting
+folklore folklore folklore
 helloworld
+daylight daylight daylightayl
+cruel summer              rue folklore hello.txt s
+
+s
+by root 
